@@ -1,3 +1,8 @@
+# http://firsttimeprogrammer.blogspot.com/2015/08/european-option-pricing-with-python.html
+# https://www.quantstart.com/articles/European-Vanilla-Call-Put-Option-Pricing-with-Python
+# https://clinthoward.github.io/portfolio/2017/04/16/BlackScholesGreeks/        # various trading strategies
+# https://aaronschlegel.me/black-scholes-formula-python.html   <-- This is implemented here
+
 # Black-Scholes Equation & Greeks
 from scipy.stats import norm
 import numpy as np
